@@ -7,7 +7,7 @@
     "append-tree": "^2.3.5",
     "duplexify": "^3.5.0",
     "from2": "^2.3.0",
-    "hypercore": "^6.10.4",
+    "hypercore": "git://github.com/d4tocchini/hypercore.git#1046d4d1c9365e1e09eafd69b1fbabb4394628bc",
     "inherits": "^2.0.3",
     "mutexify": "^1.1.0",
     "protocol-buffers": "^3.2.1",
